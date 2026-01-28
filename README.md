@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Inficare Pvt. Ltd.](https://www.inficare.com.my/)
 
-- 🌱 I’m currently learning **AngularJs, Angular, React, JS, DevOps, Azure, CI/CD, **
+- 🌱 I’m currently learning **AngularJs, Angular, Next, React, JS, DevOps, Azure, CI/CD, **
 
 - 💬 Ask me about **Asp.net MVC/ Core, Python, DJango, PHP, CI, JS, JQuery, Ajax, Photo editing, video editing, motion graphics and many more**
 
