@@ -18,6 +18,12 @@ export default function Navbar() {
             Projects
           </a>
           <a
+            href="#skills"
+            className="text-white hover:text-blue-400 transition-colors"
+          >
+            Skills
+          </a>
+          <a
             href="#contact"
             className="text-white hover:text-blue-400 transition-colors"
           >
