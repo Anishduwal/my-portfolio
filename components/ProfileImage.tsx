@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import Image from "next/image";
-import profile from "../public/profile1.png"
+import profile from "../public/profile.png"
 
 export default function ProfileImage() {
   return (
