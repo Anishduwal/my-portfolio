@@ -11,6 +11,12 @@ export default function Navbar() {
           >
             About
           </a>
+            <a
+            href="#experience"
+            className="text-white hover:text-blue-400 transition-colors"
+          >
+            Experience
+          </a>
           <a
             href="#projects"
             className="text-white hover:text-blue-400 transition-colors"
