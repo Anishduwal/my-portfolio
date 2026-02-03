@@ -26,8 +26,8 @@ export default function ProfileImage() {
         className="relative z-10 rounded-full overflow-hidden border-4 border-white shadow-2xl"
       >
         <Image
-          src= {profile}
-          alt="Anish Duwal"
+          src= "/profile.png"
+          alt="Anish Duwal - Software Engineer"
           width={280}
           height={280}
           className="object-cover"
