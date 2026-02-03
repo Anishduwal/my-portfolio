@@ -77,10 +77,10 @@ export default function RootLayout({
               "@type": "Person",
               name: "Anish Duwal",
               jobTitle: "Software Engineer",
-              url: "https://anishduwal.com",
+              url: "https://anishduwal.com.np",
               sameAs: [
-                "https://github.com/yourname",
-                "https://linkedin.com/in/yourname",
+                "https://github.com/Anishduwal",
+                "https://linkedin.com/in/anish-duwal-8322b51a2",
               ],
             }),
           }}
