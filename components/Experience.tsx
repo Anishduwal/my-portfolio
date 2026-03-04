@@ -10,6 +10,7 @@ const experiences = [
     date: "2025 – Present",
     tech: "ASP.NET Core, Clean Architecture, CQRS, PostgreSQL, Kafka, Redis, gRPC, Kubernetes, OpenShift",
     logo: "/logos/inficare.png",
+    projectImage: "/projects/himalremit.png",
     current: true,
     projectLink: "#projects",
   },
@@ -19,6 +20,7 @@ const experiences = [
     date: "2023 – 2025",
     tech: "ASP.NET MVC, REST & SOAP APIs, Hangfire, SQL Server, JavaScript, jQuery",
     logo: "/logos/mypay.png",
+    projectImage: "/projects/mypay.png",
     projectLink: "#projects",
   },
   {
@@ -27,6 +29,7 @@ const experiences = [
     date: "2022 – 2023",
     tech: "ASP.NET MVC, Hangfire, SQL Server, JavaScript, jQuery",
     logo: "/logos/noble-idea.png",
+    projectImage: "/projects/nicepos.png",
     projectLink: "#projects",
   },
 ];
