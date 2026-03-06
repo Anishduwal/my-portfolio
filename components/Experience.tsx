@@ -108,7 +108,26 @@ export default function Experience() {
                   <p className="text-gray-400 mt-4 text-sm leading-relaxed">
                     {exp.tech}
                   </p>
-
+                {/* Project Screenshot */}
+                  <div className="
+                      mt-6 rounded-xl overflow-hidden border border-gray-800
+                      hover:shadow-[0_0_30px_rgba(59,130,246,0.35)]
+                      transition duration-300
+                  ">
+                    <motion.div
+                      whileHover={{ scale: 1.03 }}
+                      transition={{ duration: 0.3 }}
+                    >
+                      <Image
+                        src={exp.projectImage}
+                        alt={`${exp.company} Project Screenshot`}
+                        width={800}
+                        height={450}
+                        sizes="(max-width: 768px) 100vw, 800px"
+                        className="object-cover w-full h-auto group-hover:brightness-110 transition duration-300"
+                      />
+                    </motion.div>
+                  </div>
                   {/* View Projects */}
                   <a
                     href={exp.projectLink}

@@ -1,19 +1,19 @@
 const projects = [
+    {
+    title: "Hungry Pizza",
+    tech: "ASP.NET MVC, Hangfire, SQL Server, JavaScript, jQuery",
+  },
+    {
+    title: "MyPay Wallet",
+    tech: "ASP.NET MVC, REST & SOAP APIs, Hangfire, SQL Server, JavaScript, jQuery",
+  },
   {
     title: "Himal Remit Exchange",
     tech: "ASP.NET Core, Clean Architecture, CQRS, PostgreSQL, Kafka, Redis, gRPC, Migrations",
   },
   {
     title: "Tour Booking System",
-    tech: "Next.js, .NET, PostgreSQL",
-  },
-  {
-    title: "MyPay Wallet",
-    tech: "ASP.NET MVC, REST & SOAP APIs, Hangfire, SQL Server, JavaScript, jQuery",
-  },
-  {
-    title: "Hungry Pizza",
-    tech: "ASP.NET MVC, Hangfire, SQL Server, JavaScript, jQuery",
+    tech: "Next.js, .NET, SQL Server, Redis",
   },
 ];
 
