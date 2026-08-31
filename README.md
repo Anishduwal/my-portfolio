@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Inficare Pvt. Ltd.](https://www.inficare.com.my/)
 
-- 🌱 I’m currently learning **AngularJs, Angular, Next, React, JS, DevOps, Azure, CI/CD, **
+- 🌱 I’m currently learning **AngularJs, Angular, Next, React.js, Node, DevOps, Azure, CI/CD, **
 
-- 💬 Ask me about **Asp.net MVC/ Core, Python, DJango, PHP, CI, JS, JQuery, Ajax, Photo editing, video editing, motion graphics and many more**
+- 💬 Ask me about **Asp.net MVC/ Core, Python, DJango, PHP, Kafka, Redis, Kubernetes, MicroServices, CI/CD, JS, JQuery, Ajax, Photo editing, video editing, motion graphics and many more**
 
-- 📫 How to reach me **anish.dwl1.ad@gmail.com**
+- 📫 How to reach me **anishduwal2@gmail.com**
 
 - ⚡ Fun fact **I think I am funny, love traveling to different places, listening to music, read books, watch anime and many more**
 
